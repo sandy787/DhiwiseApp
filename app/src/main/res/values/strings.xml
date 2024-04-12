@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="app_name">prajwal_s_application1</string>
+    <string name="loading">Loading…</string>
+    <string name="no_internet_connection">No internet connection!</string>
+<string name="lbl_sign_in">Sign in</string>
+  <string name="lbl_email">Email</string>
+  <string name="lbl_mobile_number">Mobile Number</string>
+  <string name="lbl_recent">Recent</string>
+  <string name="lbl_enter_email_id">Enter Email Id</string>
+  <string name="lbl_last_name">Last Name</string>
+  <string name="lbl_enter_last_name">Enter Last Name</string>
+  <string name="msg_enter_first_name">Enter First Name</string>
+  <string name="lbl_password">Password</string>
+  <string name="msg_forgot_password">Forgot Password?</string>
+  <string name="lbl_4_selected">4 Selected</string>
+  <string name="msg_scan_the_qr_code">Scan the QR code of the 
+device</string>
+  <string name="lbl_first_name">First Name</string>
+  <string name="lbl_abc_gmail_com">abc@gmail.com</string>
+  <string name="lbl_last_week">Last Week</string>
+  <string name="msg_enter_mobile_number">Enter Mobile Number</string>
+  <string name="lbl_set_password">Set Password</string>
+  <string name="lbl_enter_password">Enter Password</string>
+  <string name="lbl_email_id">Email Id</string>
+  <string name="lbl_create_account">Create Account</string>
+<string name="msg_please_enter_valid_phone_nu">Please enter valid phone number</string>
+<string name="msg_please_enter_valid_email">Please enter valid email</string>
+<string name="msg_please_enter_valid_pa">Please enter valid password</string>
+<string name="msg_please_enter_valid_text">Please enter valid text</string>
+</resources>
